@@ -1,0 +1,4 @@
+# you can solve dictionary mimimizing problem here
+
+if __name__ == '__main__':
+    solve()
